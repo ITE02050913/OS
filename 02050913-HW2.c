@@ -1,3 +1,8 @@
+//Kang Tong Pei 02050913
+//Collatz Conjecture
+//2017/04/27
+
+
 #include <sys/types.h>
 #include <stdio.h>
 #include <stdlib.h>
